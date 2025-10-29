@@ -91,7 +91,7 @@ int main() {
     int choice;
 
     do {
-        cout << "\n—— MENU ——\n";
+        cout << "\n MENU \n";
         cout << "1. CREATE\n";
         cout << "2. DISPLAY\n";
         cout << "3. INSERT\n";
